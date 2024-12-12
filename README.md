@@ -11,7 +11,8 @@ Clone the repository to your local machine:
 
 bash
 Copier le code
-git clone https://github.com/yossrabenarfa/taho-ai.git
+git clone https://github.com/DABBEKRAMZI/React_RamziDabbek.git
+
 Navigate to the project directory:
 
 bash
